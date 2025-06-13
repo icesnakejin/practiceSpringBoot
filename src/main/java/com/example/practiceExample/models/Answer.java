@@ -1,4 +1,4 @@
-package com.example.quoraclone.models;
+package com.example.practiceExample.models;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

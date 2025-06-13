@@ -1,10 +1,10 @@
-package com.example.quoraclone;
+package com.example.practiceExample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuoraCloneApplicationTests {
+class PracticeExampleApplicationTests {
 
     @Test
     void contextLoads() {

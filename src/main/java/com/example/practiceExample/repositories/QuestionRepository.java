@@ -1,6 +1,6 @@
-package com.example.quoraclone.repositories;
+package com.example.practiceExample.repositories;
 
-import com.example.quoraclone.models.Question;
+import com.example.practiceExample.models.Question;
 import org.springframework.stereotype.Repository;
 
 import java.util.Optional;

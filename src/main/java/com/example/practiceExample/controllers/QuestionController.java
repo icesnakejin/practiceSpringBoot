@@ -1,7 +1,7 @@
-package com.example.quoraclone.controllers;
+package com.example.practiceExample.controllers;
 
-import com.example.quoraclone.services.QuestionService;
-import com.example.quoraclone.models.Question;
+import com.example.practiceExample.services.QuestionService;
+import com.example.practiceExample.models.Question;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

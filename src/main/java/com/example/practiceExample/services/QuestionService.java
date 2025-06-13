@@ -1,7 +1,7 @@
-package com.example.quoraclone.services;
+package com.example.practiceExample.services;
 
-import com.example.quoraclone.models.Question;
-import com.example.quoraclone.repositories.QuestionRepository;
+import com.example.practiceExample.models.Question;
+import com.example.practiceExample.repositories.QuestionRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

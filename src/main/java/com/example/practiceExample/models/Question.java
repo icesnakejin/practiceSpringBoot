@@ -1,4 +1,4 @@
-package com.example.quoraclone.models;
+package com.example.practiceExample.models;
 
 public class Question {
     private final long id;
